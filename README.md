@@ -24,12 +24,10 @@ The questions this assigment attempts to answer are:
 - What are the most popular cuisine?
 
 # File Descriptions
-Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc.
-
-There is also a notebook available here to showcsae all my work related to my three questions.
+Review.csv contains the final file after processing the reviews.
 
 # Results
-The main findings of the code can be found at the post available
+The main findings of the code can be found at https://medium.com/@ashishraj_2663/restaurant-analysis-2544677ce0a1
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
